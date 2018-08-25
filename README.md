@@ -1,4 +1,4 @@
-# Calcular el valor máximo dado en un archivo Json
+# Calcular el valor maximo dado en un archivo Json
 
 # Descripción
 
